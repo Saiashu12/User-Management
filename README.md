@@ -19,7 +19,7 @@ It includes a professional **UI design** with responsive pages for Dashboard, Us
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/user-management-system.git
+git clone https://github.com/Saiashu12/user-management-system.git
 cd user-management-system
 ```
 
